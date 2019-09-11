@@ -1,6 +1,6 @@
 # sampleCoverageApplication
 
-Sample code showing run to run the coverage tooling.
+Sample code showing how to run the coverage tooling.
 
 ## 1. Environment setup
 
